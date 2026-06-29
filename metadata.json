@@ -1,0 +1,6 @@
+{
+  "name": "LM Connect",
+  "description": "Connect Faster. Share Bigger. Stay Together. LM Connect is a premium, secure messaging application with large file sharing and HD calling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">LM Connect</string>
+    <string name="welcome_title">Welcome to LM Connect</string>
+    <string name="welcome_subtitle">Connect Faster. Share Bigger. Stay Together.</string>
+    <string name="email_label">Email Address</string>
+    <string name="email_placeholder">your.name@gmail.com</string>
+    <string name="password_label">Password</string>
+    <string name="password_placeholder">••••••••</string>
+    <string name="confirm_password_label">Confirm Password</string>
+    <string name="confirm_password_placeholder">••••••••</string>
+    <string name="full_name_label">Full Name</string>
+    <string name="full_name_placeholder">John Doe</string>
+    <string name="username_label">Username (Optional)</string>
+    <string name="username_placeholder">johndoe</string>
+    <string name="sign_in_button">Sign In</string>
+    <string name="create_account_button">Create Account</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="forgot_password_link">Forgot Password?</string>
+    <string name="dont_have_account">Don\'t have an account? Create one</string>
+    <string name="already_have_account">Already have an account? Sign In</string>
+    <string name="keep_me_signed_in">Keep Me Signed In</string>
+    <string name="terms_and_privacy">By continuing, you agree to our Terms &amp; Privacy Policy</string>
+    <string name="terms_link">Terms of Service</string>
+    <string name="privacy_link">Privacy Policy</string>
+    <string name="reset_password_title">Reset Password</string>
+    <string name="reset_password_instruction">Enter your registered email address and we will send you instructions to reset your password.</string>
+    <string name="send_reset_link">Send Reset Link</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="verification_title">Email Verification Required</string>
+    <string name="verification_instruction">We have sent a verification email to the address below. Please click the link to verify your account.</string>
+    <string name="verify_now_button">Verify Now (Simulate / Click to Refresh)</string>
+    <string name="resend_verification">Resend Verification Email</string>
+    <string name="logout_and_back">Logout &amp; Back</string>
+</resources>
